@@ -34,7 +34,7 @@ class Pascal():
         self.arr = [
             [Tile(254, 254, 254)],
             [Tile(254, 254, 254), Tile(254, 254, 254)],
-            [Tile(100, 0, 0), Tile(0, 100, 0), Tile(0, 0, 100)]
+            [Tile(10, 20, 10), Tile(5, 10, 15), Tile(20, 10, 5)]
         ]
         # print(type(self.arr[0][0]))
         self.n = n
@@ -59,13 +59,13 @@ class Pascal():
             ptr = 1
             while nt < self.n:
                 # newarr = [1]
-                newarr = [Tile(100, 0, 0)]
+                newarr = [Tile(80, 10, 100)]
                 while ptr < len(self.arr[-1]):
                     # newarr.append(self.arr[nt][ptr] + self.arr[nt][ptr-1])
                     newarr.append(self.arr[nt][ptr].add(self.arr[nt][ptr-1], self.n))
                     ptr += 1
                 # newarr.append(1)
-                newarr.append(Tile(0, 0, 100))
+                newarr.append(Tile(0, 69, 60))
                 self.arr.append(newarr)
                 nt += 1
                 ptr = 1
