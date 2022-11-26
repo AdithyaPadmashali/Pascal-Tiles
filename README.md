@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/57041819/204083432-b528cf3a-9ead-4e44-8b22-5b0e479a3717.png)
 
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mememaker.net%2Fmeme%2Fhere-is-a-potato&psig=AOvVaw1OicWWvKqdUv4klgTfHR69&ust=1669544362037000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLC07cvPy_sCFQAAAAAdAAAAABAJ' height=100 width=100>
+<img src='https://user-images.githubusercontent.com/57041819/204083935-eb5be110-9ba8-4d90-8a1e-9473ed9e524c.png' height=100 width=100>
 
 
 
